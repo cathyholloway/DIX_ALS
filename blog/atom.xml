@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/DIX_ALS/blog</id>
-    <title>Disability Interaction: ALS/MND Blog</title>
+    <title>Disability Interactions: ALS/MND Blog</title>
     <updated>2022-05-28T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/DIX_ALS/blog"/>
-    <subtitle>Disability Interaction: ALS/MND Blog</subtitle>
+    <subtitle>Disability Interactions: ALS/MND Blog</subtitle>
     <icon>https://github.com/DIX_ALS/img/favicon.ico</icon>
     <entry>
         <title type="html"><![CDATA[First Blog Post]]></title>
