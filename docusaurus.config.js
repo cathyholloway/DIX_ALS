@@ -8,8 +8,8 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'Disability Interaction: ALS/MND',
   tagline: 'Designing technology to overcome the barriers faced by people living with ALS/MND',
-  url: 'https://your-docusaurus-test-site.com',
-  baseUrl: '/',
+  url: 'https://github.com',
+  baseUrl: '/DIX_ALS.git',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
@@ -17,7 +17,8 @@ const config = {
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
   organizationName: 'facebook', // Usually your GitHub org/user name.
-  projectName: 'docusaurus', // Usually your repo name.
+  projectName: 'cathyholloway', // Usually your repo name.
+  deploymentBranch: "gh-pages",
 
   // Even if you don't use internalization, you can use this field to set useful
   // metadata like html lang. For example, if your site is Chinese, you may want
@@ -57,17 +58,14 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       navbar: {
-        title: 'DIX',
-        logo: {
-          alt: 'DIXLogo',
-          src: 'img/logo.svg',
-        },
+        title: 'Home',
+      
         items: [
           {
             type: 'doc',
-            docId: 'intro',
-            position: 'right',
-            label: 'Tut',
+            docId: 'welcome',
+            position: 'left',
+            label: 'Handbook',
           },
           {to: '/blog', label: 'Blog', position: 'left'},
           {
@@ -84,35 +82,32 @@ const config = {
             title: 'Docs',
             items: [
               {
-                label: 'ALS-MND-basics',
-                to: '/docs/intro',
+                label: 'Disability Interactions',
+                to: '/docs/DIX_ALS_intro',
               },
           
               {
                 label: 'ALS-MND-needs',
-                to: '/docs/intro',
+                to: '/docs/ALS-MND-needs',
               },
             
               {
                 label: 'ALS-MND-solutions',
-                to: '/docs/intro',
+                to: '/docs/ALS-MND-solutions',
               },
             
-              {
-                label: 'DIX-basics',
-                to: '/docs/intro',
-              },
+             
             ],
           },
           {
             title: 'Community',
             items: [
               {
-                label: 'Moodle Page',
+                label: 'UCL Moodle Page (for students)',
                 href: 'https://moodle.ucl.ac.uk/course/view.php?id=30295',
               },
               {
-                label: 'The International Alliance of ALS/MND Associations- YouTube Channel',
+                label: 'The International Alliance of ALS/MND Associations - YouTube',
                 href: 'https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwjywJuPxI38AhWIhFwKHSanDVwQtwJ6BAgQEAE&url=https%3A%2F%2Fwww.youtube.com%2Fchannel%2FUChpf_KMvxLQcrF5SqTcjVzg&usg=AOvVaw3mDivWyMDzLxnnPi51bjYn',
               },
               {
@@ -123,7 +118,7 @@ const config = {
           },
           
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+        copyright: ` Disability Interactions – ALS/MND © 2023 by Class of UCL 22/23 taking PSYC0100 is licensed under CC BY-NC-SA 4.0. Built with Docusaurus.`,
       },
       prism: {
         theme: lightCodeTheme,

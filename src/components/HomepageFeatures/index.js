@@ -4,33 +4,31 @@ import styles from './styles.module.css';
 
 const FeatureList = [
   {
-    title: 'Easy to Use',
-    Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
+    title: 'Disability Interactions',
+    Svg: require('@site/static/img/undraw_dog_re_63j1(1).svg').default,
     description: (
       <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
-        <p> This is an example new paragraph</p>
+        Disability Interactions (DIX) is a design framework which uses elements of co-design and innovation to ensure ideas for disabled people get used.
+        
       </>
     ),
   },
   {
-    title: 'Focus on What Matters',
-    Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
+    title: 'ALS/MND Handbook',
+    Svg: require('@site/static/img/undraw_new_year_2023_g4rf(1).svg').default,
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+        The handbook is being created between Jan and April 23 by students and staff of the Disabilty Interaction module at UCL.
+        <p> After this we will make it editable by others too </p>
       </>
     ),
   },
   {
-    title: 'Powered by React',
-    Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
+    title: 'Powered by people',
+    Svg: require('@site/static/img/undraw_appreciation_3e2v(1).svg').default,
     description: (
       <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
+        Our blog documents the process and includes contributions by guset lecturers and experts of living wiht ALS/MND.
       </>
     ),
   },
