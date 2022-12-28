@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdix=self.webpackChunkdix||[]).push([[2572],{1597:e=>{e.exports=JSON.parse('{"permalink":"/DIX_ALS/blog/tags/hello","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);

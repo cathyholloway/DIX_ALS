@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdix=self.webpackChunkdix||[]).push([[6090],{245:e=>{e.exports=JSON.parse('{"permalink":"/DIX_ALS/blog/tags/docusaurus","page":1,"postsPerPage":10,"totalPages":1,"totalCount":3,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);

@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkdix=self.webpackChunkdix||[]).push([[8208],{9269:a=>{a.exports=JSON.parse('{"label":"PHYC0100","permalink":"/DIX_ALS.git/blog/tags/phyc-0100","allTagsPath":"/DIX_ALS.git/blog/tags","count":1}')}}]);

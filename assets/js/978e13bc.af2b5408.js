@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdix=self.webpackChunkdix||[]).push([[3758],{7496:s=>{s.exports=JSON.parse('{"label":"docusaurus","permalink":"/DIX_ALS/blog/tags/docusaurus","allTagsPath":"/DIX_ALS/blog/tags","count":3}')}}]);

@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
     <channel>
         <title>Disability Interaction: ALS/MND Blog</title>
-        <link>https://github.com/DIX_ALS.git/blog</link>
+        <link>https://github.com/DIX_ALS/blog</link>
         <description>Disability Interaction: ALS/MND Blog</description>
         <lastBuildDate>Sat, 28 May 2022 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
@@ -10,7 +10,7 @@
         <language>en</language>
         <item>
             <title><![CDATA[First Blog Post]]></title>
-            <link>https://github.com/DIX_ALS.git/blog/first-blog-post</link>
+            <link>https://github.com/DIX_ALS/blog/first-blog-post</link>
             <guid>first-blog-post</guid>
             <pubDate>Sat, 28 May 2022 00:00:00 GMT</pubDate>
             <description><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet]]></description>
@@ -20,18 +20,18 @@
         </item>
         <item>
             <title><![CDATA[Disability Interactions]]></title>
-            <link>https://github.com/DIX_ALS.git/blog/DIX</link>
+            <link>https://github.com/DIX_ALS/blog/DIX</link>
             <guid>DIX</guid>
             <pubDate>Thu, 26 Aug 2021 00:00:00 GMT</pubDate>
             <description><![CDATA[DIX banner]]></description>
-            <content:encoded><![CDATA[<p><img loading="lazy" alt="DIX banner" src="/DIX_ALS.git/assets/images/DIX-banner-8067ad8e6d47053b44c038a6b8d26019.png" width="1604" height="300" class="img_ev3q"></p><p>The disabiltiy interactions course has emerged from the original accessibility and assistive technology course.</p><p>The reason for the name change of the module was a philosophical one. I think of designing technology in terms of how people interact with the technology and then how this enables interactions within life. There needs to be more than just designing technology. We have to be designing technology which will enhance the interactions of life. Make it easier for people to do things, whatever things they choose.
+            <content:encoded><![CDATA[<p><img loading="lazy" alt="DIX banner" src="/DIX_ALS/assets/images/DIX-banner-8067ad8e6d47053b44c038a6b8d26019.png" width="1604" height="300" class="img_ev3q"></p><p>The disabiltiy interactions course has emerged from the original accessibility and assistive technology course.</p><p>The reason for the name change of the module was a philosophical one. I think of designing technology in terms of how people interact with the technology and then how this enables interactions within life. There needs to be more than just designing technology. We have to be designing technology which will enhance the interactions of life. Make it easier for people to do things, whatever things they choose.
 Interactions need to be adaptable to the person's abilities and the context of use. having different modalitites of interactions helps with this.</p><p>Our module focuses on designing for people with ALS/MND. You can read all about this disease and its impact on what people can do physically with their bodies in the documentation for the module. ALS/MND is a horrible disease. It is also fatal, ultimately. This makes designing with people who have ALS/MND important but also more challenging. When people live with a reduced amount of time to live and have challenges in communicating, we must ensure our interactions do not waste the precious energy and time of people living with ALS/MND.</p><p>This combination - the fact ALS/MND affects so many aspects of a person's life, combined with the need to use the very best practices within co-design work, makes it an excellent choice for developing the disability interaction philosophy and accompanying framework.</p><p>This year as I transition the course from accessibility and assistive technology to Disability Interactions (DIX), I thought I would experiment with something I have wanted to do for quite a while – to design a process where all the people who take my module can pool their collective learnings into a resource which can be used by the wider human-computer interaction (HCI) community. This is that process. We will use <a href="https://docusaurus.io/" target="_blank" rel="noopener noreferrer">Docusaurus</a> to develop a living resource for people wanting to design technology which helps people living with ALS/MND.</p>]]></content:encoded>
             <category>PHYC0100</category>
             <category>accessibility</category>
         </item>
         <item>
             <title><![CDATA[MDX Blog Post]]></title>
-            <link>https://github.com/DIX_ALS.git/blog/mdx-blog-post</link>
+            <link>https://github.com/DIX_ALS/blog/mdx-blog-post</link>
             <guid>mdx-blog-post</guid>
             <pubDate>Sun, 01 Aug 2021 00:00:00 GMT</pubDate>
             <description><![CDATA[Blog posts support Docusaurus Markdown features, such as MDX.]]></description>
@@ -40,7 +40,7 @@ Interactions need to be adaptable to the person's abilities and the context of u
         </item>
         <item>
             <title><![CDATA[Long Blog Post]]></title>
-            <link>https://github.com/DIX_ALS.git/blog/long-blog-post</link>
+            <link>https://github.com/DIX_ALS/blog/long-blog-post</link>
             <guid>long-blog-post</guid>
             <pubDate>Wed, 29 May 2019 00:00:00 GMT</pubDate>
             <description><![CDATA[This is the summary of a very long blog post,]]></description>
