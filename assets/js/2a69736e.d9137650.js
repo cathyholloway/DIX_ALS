@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdix=self.webpackChunkdix||[]).push([[184],{2529:e=>{e.exports=JSON.parse('{"permalink":"/DIX_ALS.git/blog/tags/accessibility","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);
