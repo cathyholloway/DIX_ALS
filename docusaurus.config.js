@@ -82,8 +82,8 @@ const config = {
             title: 'Docs',
             items: [
               {
-                label: 'Disability Interactions',
-                to: '/docs/welcome',
+                label: 'Introduction',
+                to: '/docs/Introduction',
               },
           
               {
