@@ -6,18 +6,18 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'Disability Interaction: ALS/MND',
+  title: 'Disability Interactions: ALS/MND',
   tagline: 'Designing technology to overcome the barriers faced by people living with ALS/MND',
   url: 'https://github.com',
-  baseUrl: '/DIX_ALS.git',
+  baseUrl: '/DIX_ALS/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'facebook', // Usually your GitHub org/user name.
-  projectName: 'cathyholloway', // Usually your repo name.
+  organizationName: 'cathyholloway', // Usually your GitHub org/user name.
+  projectName: 'DIX_ALS', // Usually your repo name.
   deploymentBranch: "gh-pages",
 
   // Even if you don't use internalization, you can use this field to set useful
@@ -83,17 +83,17 @@ const config = {
             items: [
               {
                 label: 'Disability Interactions',
-                to: '/docs/DIX_ALS_intro',
+                to: '/docs/welcome',
               },
           
               {
                 label: 'ALS-MND-needs',
-                to: '/docs/ALS-MND-needs',
+                to: '/docs/welcome',
               },
             
               {
                 label: 'ALS-MND-solutions',
-                to: '/docs/ALS-MND-solutions',
+                to: '/docs/welcome',
               },
             
              
