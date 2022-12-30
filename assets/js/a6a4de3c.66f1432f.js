@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdix=self.webpackChunkdix||[]).push([[790],{3042:e=>{e.exports=JSON.parse('[{"label":"PHYC0100","permalink":"/DIX_ALS/blog/tags/phyc-0100","count":1},{"label":"accessibility","permalink":"/DIX_ALS/blog/tags/accessibility","count":1}]')}}]);
