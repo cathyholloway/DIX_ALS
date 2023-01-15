@@ -18,14 +18,14 @@ const FeatureList = [
     Svg: require('@site/static/img/undraw_new_year_2023_g4rf(1).svg').default,
     description: (
       <>
-        The handbook is being created between Jan and April 23 by students and staff of the Disabilty Interaction module at UCL.
+        The Handbook is being created between Jan and April 23 by students and staff of the Disabilty Interaction module at UCL.
         <p> After this we will make it editable by others too </p>
       </>
     ),
   },
   {
     title: 'Powered by people',
-    Svg: require('@site/static/img/undraw_appreciation_3e2v(1).svg').default,
+    Svg: require('@site/static/img/undraw_appreciation.svg').default,
     description: (
       <>
         Our blog documents the process and includes contributions by guset lecturers and experts of living wiht ALS/MND.
@@ -61,3 +61,4 @@ export default function HomepageFeatures() {
     </section>
   );
 }
+

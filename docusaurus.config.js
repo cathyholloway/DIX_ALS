@@ -6,18 +6,18 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'Disability Interactions: ALS/MND',
-  tagline: 'Designing technology to overcome the barriers faced by people living with ALS/MND',
-  url: 'https://github.com',
-  baseUrl: '/DIX_ALS/',
-  onBrokenLinks: 'throw',
-  onBrokenMarkdownLinks: 'warn',
-  favicon: 'img/favicon.ico',
+  title: "Disability Interactions: ALS/MND",
+  tagline: "Designing technology to overcome the barriers faced by people living with ALS/MND",
+  url: "https://github.com",
+  baseUrl: "/DIX_ALS/",
+  onBrokenLinks: "throw",
+  onBrokenMarkdownLinks: "warn",
+  favicon: "img/favicon.ico",
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'cathyholloway', // Usually your GitHub org/user name.
-  projectName: 'DIX_ALS', // Usually your repo name.
+  organizationName: "cathyholloway", // Usually your GitHub org/user name.
+  projectName: "DIX_ALS", // Usually your repo name.
   deploymentBranch: "gh-pages",
 
   // Even if you don't use internalization, you can use this field to set useful
@@ -58,18 +58,22 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       navbar: {
-        title: 'Home',
+        title: 'DIX - ALS',
+        logo: { alt: 'DIX logo',
+        src:'img/logo.svg',
+
+        },
       
         items: [
           {
             type: 'doc',
-            docId: 'welcome',
+            docId: 'introduction/course',
             position: 'left',
             label: 'Handbook',
           },
           {to: '/blog', label: 'Blog', position: 'left'},
           {
-            href: 'https://github.com/facebook/docusaurus',
+            href: 'https://github.com/cathyholloway/DIX_ALS',
             label: 'GitHub',
             position: 'right',
           },
@@ -81,21 +85,6 @@ const config = {
           {
             title: 'Docs',
             items: [
-              {
-                label: 'Introduction',
-                to: '/docs/welcome',
-              },
-          
-              {
-                label: 'ALS-MND-needs',
-                to: '/docs/welcome',
-              },
-            
-              {
-                label: 'ALS-MND-solutions',
-                to: '/docs/welcome',
-              },
-            
              
             ],
           },
