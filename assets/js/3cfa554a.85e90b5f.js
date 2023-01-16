@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkdix=self.webpackChunkdix||[]).push([[438],{3862:s=>{s.exports=JSON.parse('{"label":"accessibility","permalink":"/DIX_ALS/blog/tags/accessibility","allTagsPath":"/DIX_ALS/blog/tags","count":1}')}}]);

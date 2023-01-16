@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdix=self.webpackChunkdix||[]).push([[2535],{5641:e=>{e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"Disability Interactions","permalink":"/DIX_ALS/blog/DIX"}]}')}}]);
